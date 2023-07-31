@@ -1,0 +1,2 @@
+.App{align-items:center;justify-content:space-between;height:100vh}.App,.App__remote{display:flex;flex-direction:column}.App__remote{grid-gap:15px;gap:15px;padding:0;margin-bottom:40px}.App__remote input{width:180px;margin-right:30px}.Carousel{display:flex;align-items:center;grid-gap:30px;gap:30px;max-width:100%}.Carousel__list{list-style:none;display:flex;padding:0;margin:auto 0;overflow:hidden}.Carousel img{position:relative}.Carousel button{display:block;height:40px;border-radius:10px;margin:15px}
+/*# sourceMappingURL=main.618b2cae.chunk.css.map */
